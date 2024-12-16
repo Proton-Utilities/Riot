@@ -1,1 +1,1 @@
--- nuh uh
+print("skibidi sigma")
